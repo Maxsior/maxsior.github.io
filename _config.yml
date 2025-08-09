@@ -20,8 +20,8 @@ resume_contact_email:           "maxsior@ya.ru"
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 
-resume_header_contact_info:     "address • phone • email"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Perm, Russia"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Tech Lead with a 6+ years of experience in creating software products. I specialize in web development and team management. Not just built but grew up 3 teams and 4 products. I implemented Agile-processes, got rid of familiar things in favor of convenient ones, led software architecture &mdash; all of above helped to speed up delivery and reduced costs.</p>"
 
