@@ -1,19 +1,65 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Ozon Tech
+  position: Technical Leader
+  duration: Dec, 2024 &mdash; Present
+  summary: >
+    Managed a team of 11 engineers (3 QA, 2 FE, 6 BE). Contributed to cross-team processes in the department. Developed self-organization within the team.
+    Established a process of writing automated tests.
+    <ul>
+      <li>Optimized latency and error rate thus improved the stability from 98% to 99.8% and hit the targets.</li>
+      <li>Resolved the bottleneck at the testing stage by managing priorities and educating the team on how and when to write and use automated tests</li>
+      <li>Increased team throughput by about 20% by implementing Agile approach, changes in refinements, review and QA processes</li>
+    </ul>
+    Stack: Golang, Kafka, PostgreSQL, Clickhouse
 
+- company: Xsolla
+  position: Technical Leader
+  duration: May, 2023 &mdash; Nov, 2024
+  summary: >
+    Managed a team of 5 engineers + 3 interns. Used Kanban method to improve delivery. Worked closely with the product analytics and growth teams. Participated in strategic product decisions.
+    Then moved to a new team working on authentication systems, leading 5 engineers from 3 countries. Formed a knowledge base, defined areas of responsibility, and built discovery & delivery processes from scratch.
+    <ul>
+      <li>Reduced loading time of the current system from 8s to 1.5s</li>
+      <li>Raised the stability of the system from 90% to 98%</li>
+      <li>Established a knowledge base, which helped new and current team members understand the nuances and shortened development time by 2 days on average</li>
+    </ul>
+    Stack: React, Golang, RabbitMQ, PostgreSQL
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Xsolla
+  position: System Architect
+  duration:  Nov, 2021 &mdash; May, 2023
+  summary: >
+    Worked on the internal CRM system and data sync. Integrated new products into the company's countour. Then started a new product from scratch and supervised its technical excellence.
+    <ul>
+      <li>Increased the efficiency of the front office by about 20-30% by implementing data gathering process and providing the freshest data about our partners</li>
+      <li>Designed and oversaw the data decoupling project which cut development time of new features by 2 times</li>
+      <li>Provided technical guidance while integrating new CRM. My attendance helped to finish the project in 4 months without harm to existing processes</li>
+      <li>Laid a flexible-enough foundation for the new product, which helped the team to launch in only 3 months with 0 critical bugs</li>
+    </ul>
+    Stack: Nest.js, GraphQL, React, Golang, RabbitMQ, PostgreSQL
+
+- company: Xsolla
+  position: Fullstack Engineer
+  duration: Oct, 2019  &mdash; Oct, 2022
+  summary: >
+    Worked on the Automation team. Created internal products to help teams work more effectively. Helped teams integrate.
+    Implemented projects from C-level stakeholders. Then worked on the internal CRM system.
+    <ul>
+      <li>Incorporated the company's tools into the single ecosystem via public APIs, so that almost all employees used it</li>
+      <li>Developed a range of tools for assessors and raised their efficiency by 14-20%</li>
+      <li>Reduced loading time of the internal CRM from 12s to 1s</li>
+    </ul>
+    Stack: Node.js, TypeScript, JavaScript, Google Cloud Platform
+
+- company: Self-employed
+  position: Fullstack Engineer
+  duration: Apr, 2018  &mdash; Oct, 2020
+  summary: >
+    Developed SaaS for designing wooden toys and preparing them for manufacturing.
+    <ul>
+      <li>Developed high-performance algorithms for SVG parsing and transformation to 3D shapes. Made this process fully automated and reduced processing time by 70%.</li>
+      <li>Implemented a detail snap feature, which reduced assembly time by 30%</li>
+      <li>Created compressing and cleaning utilities to reduce storage usage by 50%</li>
+    </ul>
+    Stack: Vue.js, Paper.js, Bootstrap, Webpack, Express.js, pm2, Python
