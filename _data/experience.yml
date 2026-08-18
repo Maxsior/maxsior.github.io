@@ -1,23 +1,23 @@
 # Jobs
 
 - company: Ozon Tech
-  position: Technical Leader
+  position: Team Lead
   duration: Dec, 2024 &mdash; Present
   summary: >
     Managed a team of 11 engineers (3 QA, 2 FE, 6 BE). Contributed to cross-team processes in the department. Developed self-organization within the team.
     Established a process of writing automated tests.
     <ul>
-      <li>Optimized latency and error rate thus improved the stability from 98% to 99.8% and hit the targets.</li>
+      <li>Optimized latency and error rates, improving system stability from 98% to 99.8% and exceeding targets.</li>
       <li>Resolved the bottleneck at the testing stage by managing priorities and educating the team on how and when to write and use automated tests</li>
       <li>Increased team throughput by about 20% by implementing Agile approach, changes in refinements, review and QA processes</li>
     </ul>
     Stack: Golang, Kafka, PostgreSQL, Clickhouse
 
 - company: Xsolla
-  position: Technical Leader
+  position: Tech Lead
   duration: May, 2023 &mdash; Nov, 2024
   summary: >
-    Managed a team of 5 engineers + 3 interns. Used Kanban method to improve delivery. Worked closely with the product analytics and growth teams. Participated in strategic product decisions.
+    Managed a team of 5 engineers and 3 interns. Used Kanban method to improve delivery. Collaborated closely with product analytics and growth teams on strategic decisions.
     Then moved to a new team working on authentication systems, leading 5 engineers from 3 countries. Formed a knowledge base, defined areas of responsibility, and built discovery & delivery processes from scratch.
     <ul>
       <li>Reduced loading time of the current system from 8s to 1.5s</li>
@@ -30,12 +30,12 @@
   position: System Architect
   duration:  Nov, 2021 &mdash; May, 2023
   summary: >
-    Worked on the internal CRM system and data sync. Integrated new products into the company's countour. Then started a new product from scratch and supervised its technical excellence.
+    Architected internal CRM systems and data synchronization solutions. Led integration of new products into the company ecosystem. Launched a new product from scratch and ensured its technical excellence.
     <ul>
       <li>Increased the efficiency of the front office by about 20-30% by implementing data gathering process and providing the freshest data about our partners</li>
-      <li>Designed and oversaw the data decoupling project which cut development time of new features by 2 times</li>
-      <li>Provided technical guidance while integrating new CRM. My attendance helped to finish the project in 4 months without harm to existing processes</li>
-      <li>Laid a flexible-enough foundation for the new product, which helped the team to launch in only 3 months with 0 critical bugs</li>
+      <li>Designed and oversaw data decoupling project, reducing feature development time by half.</li>
+      <li>Provided technical guidance for new CRM integration, completing the project in 4 months with zero impact on existing operations.</li>
+      <li>Architected scalable foundation for new product, enabling launch in 3 months with zero critical bugs.</li>
     </ul>
     Stack: Nest.js, GraphQL, React, Golang, RabbitMQ, PostgreSQL
 
@@ -43,10 +43,10 @@
   position: Fullstack Engineer
   duration: Oct, 2019  &mdash; Oct, 2022
   summary: >
-    Worked on the Automation team. Created internal products to help teams work more effectively. Helped teams integrate.
-    Implemented projects from C-level stakeholders. Then worked on the internal CRM system.
+    Developed internal automation tools to enhance team productivity and cross-functional integration.
+    Implemented strategic initiatives for C-level stakeholders and contributed to internal CRM system development.
     <ul>
-      <li>Incorporated the company's tools into the single ecosystem via public APIs, so that almost all employees used it</li>
+      <li>Integrated company tools into a unified ecosystem via public APIs, achieving near-universal adoption across the organization.</li>
       <li>Developed a range of tools for assessors and raised their efficiency by 14-20%</li>
       <li>Reduced loading time of the internal CRM from 12s to 1s</li>
     </ul>

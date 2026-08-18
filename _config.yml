@@ -1,6 +1,6 @@
 # Site settings
 title: "Maksim Kudryavtsev"
-description: "Hey, I'm Max, Tech Lead with a 6+ years of experience in creating software products. I specialize in web development and team management. Not just built but grew up 3 teams and 4 products. I implemented Agile-processes, got rid of familiar things in favor of convenient ones, led software architecture &mdash; all of above helped to speed up delivery and reduced costs."
+description: "Hey, I'm Max, Tech Lead with a 6+ years of experience in creating software products. I specialize in web development and team management. Not just built but grew up 3 teams and 4 products. I implemented Agile-processes, got rid of familiar things in favor of convenient and effective ones, led software architecture &mdash; all of above helped to speed up delivery and reduced costs."
 
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Maksim Kudryavtsev"
-resume_title:                   "Technical leader"
+resume_title:                   "Engineering manager"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "maxsior@ya.ru"
@@ -20,10 +20,10 @@ resume_contact_email:           "maxsior@ya.ru"
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 
-resume_header_contact_info:     "Perm, Russia"
+resume_header_contact_info:     ""
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Tech Lead with a 6+ years of experience in creating software products. I specialize in web development and team management. Not just built but grew up 3 teams and 4 products. I implemented Agile-processes, got rid of familiar things in favor of convenient ones, led software architecture &mdash; all of above helped to speed up delivery and reduced costs.</p>"
+resume_header_intro: "<p>Tech Lead with a 7+ years of experience in creating software products. I specialize in web development and team management. Not just built but grew up 3 teams and 4 products. I implemented Agile-processes, got rid of familiar things in favor of convenient and effective ones, led software architecture &mdash; all of above helped to speed up delivery and reduced costs.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -50,7 +50,7 @@ resume_social_links:
   # resume_dribbble_url:          "https://dribbble.com/"
   # resume_facebook_url:          "https://facebook.com/"
   resume_linkedin_url:          "https://www.linkedin.com/in/maksim-kudryavtsev-967152274/"
-  resume_instagram_url:         "https://www.instagram.com/maxsi0r/"
+  # resume_instagram_url:         "https://www.instagram.com/maxsi0r/"
   # resume_website_url:           "https://maxsior.ru"
   # resume_medium_url:            "https://medium.com/"
 resume_print_social_links:      true
